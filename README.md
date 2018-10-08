@@ -13,7 +13,7 @@ on NN, register a subdomain  such as   thisISMYown.ku
 and configure it like:
 
 
-configure nn-demo-site.ku
+    configure nn-demo-site.ku
 
 nn-demo-site.ku to IP Address (address of your web server)
 Enter IP Address (e.g. www.nn-demo-site.ku = 123.213.14.105 )
