@@ -26,7 +26,7 @@ setting things up on the cheap (i.e. not using our own DNS server called "knot-r
  ### on NN, 
 register a subdomain  such as   thisISMYown.ku
 
-and configure it like:
+and configure it like so:
 
 
   ### configure nn-demo-site.ku
