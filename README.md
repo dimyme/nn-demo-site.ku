@@ -31,5 +31,31 @@ http://www.nn-demo-site.ku = 123.213.14.105
 
 
 
+     
+gh tells us:
+
+Setting up an apex domain
+
+To set up an apex domain, such as example.com, you must configure an ALIAS, ANAME, or A record with your DNS provider.
+
+Setting up a www subdomain
+
+To set up a www subdomain, such as www.example.com you must configure a CNAME record with your DNS provider.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
