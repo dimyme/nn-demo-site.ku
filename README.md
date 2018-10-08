@@ -9,7 +9,7 @@ This is to demonstrate how it can be done, since it involves some DNS trickery w
 
 setting things up on the cheap (i.e. not using our own DNS server called "knot-resolver" kresd / knotr) is done right quick:
 
-on NN, register a subdomain  such as   thisISMYown.ku
+    on NN, register a subdomain  such as   thisISMYown.ku
 and configure it like:
 
 
@@ -22,7 +22,7 @@ Enter IP Address (e.g. www.nn-demo-site.ku = 123.213.14.105 )
 http://www.nn-demo-site.ku = 123.213.14.105
 
 
-123.213.14.105 seems to be the NN DNS or something.
+    123.213.14.105 seems to be the NN DNS or something.
 
 
 
