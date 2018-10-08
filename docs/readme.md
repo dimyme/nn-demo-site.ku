@@ -10,9 +10,7 @@ We are using:
 
 
 
-.../docs/ is the actual hmtl file  directory   to be hosted on    http://nn-demo-site.ku
-
-via github-pages for free
+.../docs/ is the actual hmtl file  directory   to be hosted on    http://nn-demo-site.ku  via github-pages for free
 
 instead of static html, we use those templates by github
 
@@ -65,7 +63,7 @@ the gh-pages setup just need on special setting, namely "custom domain" set to  
     
     done !    
 
-actually, that's it. the .ku page display handsomely. There is an error msg because of .ku, but we just ignore it since it works well regardless.
+actually, that's it. the .ku page displays handsomely. There is an error msg because of .ku, but we just ignore it since it works well regardless.
 
 now how to use our local knot-resolver slave-zone ?
 
