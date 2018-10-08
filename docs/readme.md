@@ -10,7 +10,7 @@ This is a demo example
  
  to show how to achieve this feat. see wiki at 
  
- https://github.com/dimyme/nn-demo-site.ku/wiki
+ * https://github.com/dimyme/nn-demo-site.ku/wiki
  
  for a screenshot of the (quite simple) setup. We are using:
 
