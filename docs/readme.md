@@ -59,10 +59,12 @@ To set up a www subdomain, such as www.example.com you must configure a CNAME re
 
 
  * github project settings
+ 
 the gh-pages setup just need on special setting, namely "custom domain" set to  ''nn-demo-site.ku''
     
     
- * done !    
+    done !    
+
 actually, that's it. the .ku page display handsomely. There is an error msg because of .ku, but we just ignore it since it works well regardless.
 
 now how to use our local knot-resolver slave-zone ?
