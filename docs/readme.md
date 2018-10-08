@@ -59,8 +59,7 @@ To set up a www subdomain, such as www.example.com you must configure a CNAME re
 
 
  * github project settings
-the gh-pages setup just need on special setting, namely "custom domain" set to
-    nn-demo-site.ku
+the gh-pages setup just need on special setting, namely "custom domain" set to  ''nn-demo-site.ku''
     
     
  * done !    
