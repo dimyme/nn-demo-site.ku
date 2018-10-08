@@ -49,7 +49,8 @@ To set up a www subdomain, such as www.example.com you must configure a CNAME re
 the gh-pages setup just need on special setting, namely "custom domain" set to
     nn-demo-site.ku
     
-##done !    
+    
+ ## done !    
 actually, that's it. the .ku page display handsomely.
 
 now how to use our local knot-resolver slave-zone ?
