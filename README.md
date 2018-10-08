@@ -16,8 +16,11 @@ and configure it like:
     configure nn-demo-site.ku
 
 nn-demo-site.ku to IP Address (address of your web server)
+
 Enter IP Address (e.g. www.nn-demo-site.ku = 123.213.14.105 )
+
 http://www.nn-demo-site.ku = 123.213.14.105
+
 
 123.213.14.105 seems to be the NN DNS or something.
 
