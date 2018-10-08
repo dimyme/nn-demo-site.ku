@@ -1,6 +1,6 @@
 Always wanted to run a website on your own domain for free ?
 
-This is a demo example of how to achive it.
+This is a demo example   http://www.nn-demo-site.ku/   showing how to achieve it.
 
 We are using:
 
