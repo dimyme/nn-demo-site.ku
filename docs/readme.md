@@ -2,11 +2,17 @@ Always wanted to run a website on your own domain for free ?
 
 This is a demo example   
 
- * http://www.nn-demo-site.ku/ , listed at 
+ * http://www.nn-demo-site.ku/ 
+ 
+ , listed at 
  
  * http://new-nations.net/tld/ku  
  
- to show how to achieve this feat. We are using:
+ to show how to achieve this feat. see wiki at 
+ 
+ https://github.com/dimyme/nn-demo-site.ku/wiki
+ 
+ for a screenshot of the (quite simple) setup. We are using:
 
 * the free github-pages to host stuff
 * https://blockchain-dns.info   add-on so firefox can actually surf to  a  \*.ku  website
