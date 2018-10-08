@@ -20,13 +20,13 @@ This is to demonstrate how it can be done, since it involves some DNS trickery w
 
 setting things up on the cheap (i.e. not using our own DNS server called "knot-resolver" kresd / knotr) is done right quick:
 
- ### on NN, 
+ * on NN, 
 register a subdomain  such as   thisISMYown.ku
 
 and configure it like so:
 
 
-  ### configure nn-demo-site.ku
+  * configure nn-demo-site.ku
 
 nn-demo-site.ku to IP Address (address of your web server)
 
@@ -45,7 +45,7 @@ http://www.nn-demo-site.ku = 123.213.14.105
 
 
      
-  ### gh tells us:
+ * gh tells us:
 
 Setting up an apex domain
 
@@ -58,12 +58,12 @@ To set up a www subdomain, such as www.example.com you must configure a CNAME re
 
 
 
- ### github project settings
+ * github project settings
 the gh-pages setup just need on special setting, namely "custom domain" set to
     nn-demo-site.ku
     
     
-  ## done !    
+ * done !    
 actually, that's it. the .ku page display handsomely. There is an error msg because of .ku, but we just ignore it since it works well regardless.
 
 now how to use our local knot-resolver slave-zone ?
