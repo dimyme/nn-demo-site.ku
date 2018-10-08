@@ -45,8 +45,16 @@ To set up a www subdomain, such as www.example.com you must configure a CNAME re
 
 
 
+### github project settings
+the gh-pages setup just need on special setting, namely "custom domain" set to
+    nn-demo-site.ku
+    
+##done !    
+actually, that's it. the .ku page display handsomely.
 
+now how to use our local knot-resolver slave-zone ?
 
+Also, using an openNIC domain gives us more control than New-Nations. With openNIC we have more DNS records to manipulate.  
 
 
 
